@@ -1,7 +1,9 @@
+import Date from "./components/DateHeader"
+
 const App = () => {
   return (
     <>
-      <p>hello world</p>
+      <Date />
     </>
   )
 }
